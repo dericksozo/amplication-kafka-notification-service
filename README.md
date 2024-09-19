@@ -1,0 +1,1 @@
+# amplication-kafka-notification-service
